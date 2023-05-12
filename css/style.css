@@ -1,0 +1,21 @@
+nav a img {
+  height: 36px;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #fed757, #fdb952, #fe934c);
+}
+
+.hero {
+  background-image: url(../img/bg/white-table-food.jpg);
+  height: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+}
+
+.font-color {
+  background: linear-gradient(to right, #ffeeb5, #ff6600);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
